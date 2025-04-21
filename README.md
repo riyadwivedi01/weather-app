@@ -9,7 +9,7 @@ A sleek and responsive weather app that displays real-time weather conditions us
 
 ### 🖼️ Preview
 
-![Weather App Screenshot](./assets/message/search-city.png)
+![Weather App Screenshot](./assets/1.png)
 
 ---
 
